@@ -8,6 +8,7 @@ namespace GitProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Published to Git");
+            Console.WriteLine("feature-branch Published to Git");
         }
     }
 }
